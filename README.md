@@ -1,6 +1,6 @@
 # Coffee Coupon Acceptance Analysis
 
-## Summary of Findings
+## Problem Statement
 This project analyzes coupon acceptance behavior using survey data from Amazon Mechanical Turk. 
 
 The problem is to identify factors influencing acceptance of Coffee House coupons, distinguishing between acceptors and non-acceptors using visualizations and statistical analysis.
